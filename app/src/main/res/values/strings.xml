@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coffe Shop</string>
+    <string name="starbuzz_logo">Starbuzz Logo</string>
+    <string name="coffee_pic">Coffee pic</string>
+</resources>
