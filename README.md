@@ -1,2 +1,2 @@
 # CoffeeShop
-### A simple coffee shop app made in android using java
+### A simple coffee shop app made using android sdk(progamming language = java)
